@@ -95,7 +95,7 @@
         },
         b = function () {
             n || (n = setTimeout(function () {
-                n = null, headerHeight = null === o ? 0 : s(o) + o.offsetTop
+                //n = null, headerHeight = null === o ? 0 : s(o) + o.offsetTop
             }, 66))
         };
     return r.destroy = function () {
